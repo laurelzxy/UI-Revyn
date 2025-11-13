@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 30bab70af3046d341ae72848c54b4399
+guid: 44869621e027ce345bde4efee79d0471
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3362288132823552914
-    second: chat jus 2_0
+      213: 4080258782965303037
+    second: new back_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chat jus 2_0
+      name: new back_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 48
-        height: 50
+        width: 117
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 293957d1e3f39ae20800000000000000
-      internalID: 3362288132823552914
+      spriteID: df68056bebdff9830800000000000000
+      internalID: 4080258782965303037
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      chat jus 2_0: 3362288132823552914
+      new back_0: 4080258782965303037
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

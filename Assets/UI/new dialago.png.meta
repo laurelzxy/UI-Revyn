@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 90459f5a406dd514d8c0ce46ae085cf3
+guid: ebb06921fa377d042860c25c2e8e37a3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8948864022179290436
-    second: Chat icon blue_0
+      213: -5881293114880580907
+    second: new dialago_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Chat icon blue_0
+      name: new dialago_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 48
-        height: 50
+        x: 1
+        y: 5
+        width: 174
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cb2eabeb59f3fc380800000000000000
-      internalID: -8948864022179290436
+      spriteID: 5d2a79b8213716ea0800000000000000
+      internalID: -5881293114880580907
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Chat icon blue_0: -8948864022179290436
+      new dialago_0: -5881293114880580907
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
